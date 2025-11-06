@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"e71801e6-6656-4ed7-ba80-18a85be5d2cb","ts":"2025-11-06T22:33:52.482+00:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"6fc0786c-0080-4f76-a31e-1c4020bf3688","_email":"gabik_077@hotmail.com","_firstName":"Gabriel","_lastName":"Cabrera","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"e71801e6-6656-4ed7-ba80-18a85be5d2cb","ts":"2025-11-06T22:33:52.483+00:00","source":{"id":"0","name":"eventBus"}}
